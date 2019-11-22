@@ -1,0 +1,16 @@
+{
+  "name": "fast-check-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^1.19.0",
+    "moment": "^2.24.0",
+    "tape": "^4.11.0"
+  }
+}
